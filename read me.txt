@@ -1,0 +1,7 @@
+step 1 : Extract all the zip folder and open the folder crime
+step 2 : Open the xaamp server and run the sql server
+step 3 : Open chrome and type localhost
+step 4 : Click on phpMyadmin
+step 5 : Click on databases and create a new database Crime_portal
+step 6 : Go to import and import the sql from the crime folder in DB
+Step 7 : Enter the http://localhost/crime/ link and access the project
